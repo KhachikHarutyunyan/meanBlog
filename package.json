@@ -1,0 +1,27 @@
+{
+  "name": "meanblog",
+  "version": "1.0.0",
+  "description": "Mean Stack",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KhachikHarutyunyan/meanBlog.git"
+  },
+  "keywords": [
+    "Mean",
+    "Stack"
+  ],
+  "author": "Khachik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KhachikHarutyunyan/meanBlog/issues"
+  },
+  "homepage": "https://github.com/KhachikHarutyunyan/meanBlog#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "mongoose": "^5.1.1"
+  }
+}
